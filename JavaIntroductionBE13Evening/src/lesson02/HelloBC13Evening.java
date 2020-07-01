@@ -1,3 +1,5 @@
+package lesson02;
+
 public class HelloBC13Evening {
     public static void main(String[] args) {
         int a = 5;

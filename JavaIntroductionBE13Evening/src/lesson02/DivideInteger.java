@@ -1,3 +1,5 @@
+package lesson02;
+
 public class DivideInteger {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package lesson02;
+
 public class MagicSum {
     public static void main(String[] args) {
         additionOne();

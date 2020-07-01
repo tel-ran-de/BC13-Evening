@@ -1,3 +1,5 @@
+package lesson02;
+
 public class CustomerInfo {
     public static void main(String[] args) {
         printCustomerName();

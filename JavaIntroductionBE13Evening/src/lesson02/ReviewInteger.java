@@ -1,3 +1,5 @@
+package lesson02;
+
 public class ReviewInteger {
     public static void main(String[] args) {
         byte b = 10;
