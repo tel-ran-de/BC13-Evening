@@ -1,3 +1,5 @@
+package lesson05;
+
 import org.w3c.dom.ls.LSOutput;
 
 /**

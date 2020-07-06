@@ -1,3 +1,5 @@
+package lesson05;
+
 public class GoodEveningBoolean {
     public static void main(String[] args) {
         //myLovelyBoolean();
