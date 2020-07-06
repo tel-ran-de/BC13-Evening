@@ -22,7 +22,12 @@ public class HomeWork {
         String result = "";
         int input1Length = input1.length();
 
-        String output1 = input1.substring(0, input1Length - clientInt);
+        String myString = "Самое длинное предложение в мире";
+        int dlina = myString.length();
+
+        int output5 = input1Length - clientInt;
+
+        String output1 = input1.substring(0, output5);
 
         result = input3 + output1 + input2;
 
