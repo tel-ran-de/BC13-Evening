@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2dbfe63-4cc5-485a-9d7c-d205204a0c3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson04/Homework04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson04/MagicMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/test.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Work09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Work0902.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testReview/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,59 +47,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.MagicMath">
-    <configuration name="GoodEveningChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson04.GoodEveningChar" />
-      <module name="JavaIntroductionBE13Evening" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GoodEveningString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson04.GoodEveningString" />
-      <module name="JavaIntroductionBE13Evening" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson04.Homework04" />
-      <module name="JavaIntroductionBE13Evening" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LondonIsTheCapital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson04.LondonIsTheCapital" />
-      <module name="JavaIntroductionBE13Evening" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Work0902">
     <configuration name="MagicMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson04.MagicMath" />
       <module name="JavaIntroductionBE13Evening" />
@@ -111,13 +61,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaIntroductionBE13Evening" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testReview.Main" />
+      <module name="JavaIntroductionBE13Evening" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Work09" />
+      <module name="JavaIntroductionBE13Evening" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work0902" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Work0902" />
+      <module name="JavaIntroductionBE13Evening" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Work0902" />
+        <item itemvalue="Application.Work09" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MagicMath" />
-        <item itemvalue="Application.Homework04" />
-        <item itemvalue="Application.GoodEveningString" />
-        <item itemvalue="Application.LondonIsTheCapital" />
-        <item itemvalue="Application.GoodEveningChar" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +114,7 @@
       <workItem from="1593709257634" duration="9194000" />
       <workItem from="1593721988046" duration="745000" />
       <workItem from="1593762561841" duration="2483000" />
+      <workItem from="1594217518925" duration="7437000" />
     </task>
     <servers />
   </component>
@@ -143,22 +122,22 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="326" key="GridCell.Tab.0.bottom" timestamp="1593719824173">
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom" timestamp="1594232490941">
       <screen x="-446" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="326" key="GridCell.Tab.0.bottom/0.0.1280.680/-446.-1080.1920.1040@-446.-1080.1920.1040" timestamp="1593719824173" />
-    <state width="1877" height="326" key="GridCell.Tab.0.center" timestamp="1593719824173">
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom/0.0.1280.680/-446.-1080.1920.1040@-446.-1080.1920.1040" timestamp="1594232490941" />
+    <state width="1877" height="243" key="GridCell.Tab.0.center" timestamp="1594232490940">
       <screen x="-446" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="326" key="GridCell.Tab.0.center/0.0.1280.680/-446.-1080.1920.1040@-446.-1080.1920.1040" timestamp="1593719824173" />
-    <state width="1877" height="326" key="GridCell.Tab.0.left" timestamp="1593719824173">
+    <state width="1877" height="243" key="GridCell.Tab.0.center/0.0.1280.680/-446.-1080.1920.1040@-446.-1080.1920.1040" timestamp="1594232490940" />
+    <state width="1877" height="243" key="GridCell.Tab.0.left" timestamp="1594232490939">
       <screen x="-446" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="326" key="GridCell.Tab.0.left/0.0.1280.680/-446.-1080.1920.1040@-446.-1080.1920.1040" timestamp="1593719824173" />
-    <state width="1877" height="326" key="GridCell.Tab.0.right" timestamp="1593719824173">
+    <state width="1877" height="243" key="GridCell.Tab.0.left/0.0.1280.680/-446.-1080.1920.1040@-446.-1080.1920.1040" timestamp="1594232490939" />
+    <state width="1877" height="243" key="GridCell.Tab.0.right" timestamp="1594232490940">
       <screen x="-446" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="326" key="GridCell.Tab.0.right/0.0.1280.680/-446.-1080.1920.1040@-446.-1080.1920.1040" timestamp="1593719824173" />
+    <state width="1877" height="243" key="GridCell.Tab.0.right/0.0.1280.680/-446.-1080.1920.1040@-446.-1080.1920.1040" timestamp="1594232490940" />
     <state x="-6" y="-986" key="SettingsEditor" timestamp="1593623517662">
       <screen x="-446" y="-1080" width="1920" height="1040" />
     </state>
