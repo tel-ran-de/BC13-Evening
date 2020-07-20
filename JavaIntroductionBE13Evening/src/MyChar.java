@@ -4,7 +4,6 @@ public class MyChar {
         int b = 2;
         // System.out.println(a/b);
 
-
         int c= 4;
         System.out.println((4+2) - (4-1));
 
