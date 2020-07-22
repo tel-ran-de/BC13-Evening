@@ -1,0 +1,30 @@
+body {
+    /* background-color: bisque;
+    color: blue; */
+}
+
+article {
+    /* background-color: white; */
+}
+
+h1 {
+    /* background-color: aliceblue;
+    color: black;
+    font-size: 50px; */
+}
+
+p {
+    /* background-color: aqua;
+    color: black; */
+}
+
+img {
+    /* border-radius: 50%; */
+    border-radius: 8px;
+    padding-top: 5px;
+    margin-top: 20px;
+    border-bottom: 10px;
+}
+
+/*
+*/
