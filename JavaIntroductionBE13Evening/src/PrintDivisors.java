@@ -13,5 +13,4 @@ public class PrintDivisors {
         }
         System.out.println("Total divisors: " + count);
     }
-    
 }
