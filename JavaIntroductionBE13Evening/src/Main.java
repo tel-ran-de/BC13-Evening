@@ -6,5 +6,9 @@ public class Main {
 
         long l = 24_823_492_342_892_374L;
         System.out.println(binaryLikeBinary);
+
+
+        //  x = 6!;
+        
     }
 }
