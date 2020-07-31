@@ -15,6 +15,11 @@ public class Logic02 {
         System.out.println(round10(14));
         System.out.println(round10(16));
 */
+
+
+        System.out.println(blackjack(19, 21));// â†’21
+        System.out.println(blackjack(21, 19));// â†’21
+        System.out.println(blackjack(19, 22));// â†’19
     }
 
     private static int roundSum(int a, int b, int c) {
@@ -49,5 +54,19 @@ public class Logic02 {
             return n = 0;
         }
         return n;
+    }
+
+
+    public static int blackjack(int a, int b) {
+        if (a > 21 && b > 21) {
+            return 0;
+        } else if (a > 21) {
+            return b;
+        } else if (b > 21) {
+            return a;
+        }
+
+
+        return Math.max(a, b);
     }
 }
