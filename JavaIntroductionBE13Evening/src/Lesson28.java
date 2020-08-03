@@ -13,7 +13,6 @@ public class Lesson28 {
         System.out.println(commonEnd(var1, var2));//true
         System.out.println(commonEnd(var1, var3));//false
         System.out.println(commonEnd(var1, var4));//true
-
     }
 
     public static boolean commonEnd(int[] a, int[] b) {
