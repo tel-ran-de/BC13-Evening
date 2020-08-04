@@ -1,3 +1,5 @@
+package lessonLessThan30;
+
 public class MyLovelyArray {
     // array, массив, Feld
     public static void main(String[] args) {

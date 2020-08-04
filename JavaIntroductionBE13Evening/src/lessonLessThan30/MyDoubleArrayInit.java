@@ -1,3 +1,5 @@
+package lessonLessThan30;
+
 public class MyDoubleArrayInit {
     public static void main(String[] args) {
         int dlina = (int) (Math.random() * 20) + 1;
@@ -8,8 +10,8 @@ public class MyDoubleArrayInit {
     }
 
     public static double myRound(double d) {
-        int temp = (int) (d * 1000);
-        return (double) temp / 1000;
+        int temp = (int) (d * 100);
+        return (double) temp / 100;
     }
 
     public static double[] fillMyDoubleArray(double[] d) {

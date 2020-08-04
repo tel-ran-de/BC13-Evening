@@ -1,3 +1,5 @@
+package lessonLessThan30;
+
 public class MyStringArrayInit {
     public static void main(String[] args) {
         int myRandom = (int) (Math.random() * 25 + 1);

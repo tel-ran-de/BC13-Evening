@@ -1,3 +1,5 @@
+package lessonLessThan30;
+
 public class MyIntArrayInitSecond {
     public static void main(String[] args) {
         int square = findSquare(5, 6);

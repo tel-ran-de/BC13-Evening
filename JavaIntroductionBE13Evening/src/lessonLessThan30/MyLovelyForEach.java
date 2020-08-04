@@ -1,3 +1,5 @@
+package lessonLessThan30;
+
 public class MyLovelyForEach {
     public static void main(String[] args) {
         int[] a1 = new int[10];

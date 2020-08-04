@@ -1,3 +1,5 @@
+package lessonLessThan30;
+
 public class MyLovelyDouble {
     public static void main(String[] args) {
         double d1 = 0.234234;
