@@ -50,7 +50,7 @@ public class Snowflake {
             }
         }
     }
-    
+
     private static void printStringArray(String[][] sFlake) {
         for (int i = 0; i < sFlake.length; i++) {
             for (int j = 0; j < sFlake.length; j++) {
